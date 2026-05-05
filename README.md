@@ -25,3 +25,7 @@ BioPrint AI is a research-oriented biometric healthcare project designed to pred
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Live Demo
+
+[Open BioPrint AI Application](https://bioprint-ai-vgr7q8uzaapwyt566k3vqn.streamlit.app/)
